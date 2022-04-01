@@ -1,2 +1,3 @@
 # longnt.github.io
-My First Project
+My first project after completing html + css course at F8.
+HMTL5 + CSS + JS
